@@ -1,0 +1,20 @@
+
+@media only screen and (max-width: 699px) {
+    .bars{
+        display: block;
+        margin-right: 10px;
+    }
+    .menu{
+        display: none;
+    }
+    .full{
+        font-size: 20px;
+        margin-top: 10px;
+    }
+   
+    .fa-facebook,.fa-instagram,.fa-youtube,.fa-github{
+      color: red;
+      display: block;
+    }
+  }
+
